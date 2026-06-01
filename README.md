@@ -127,7 +127,3 @@ See `backend/.env.example` and `frontend/.env.example` for all options.
 - OTPs are bcrypt-hashed before storage
 - Refresh tokens are SHA-256 hashed in the database
 - OTP endpoints are rate-limited per mobile number
-
-## License
-
-MIT
