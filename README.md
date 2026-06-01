@@ -63,7 +63,7 @@ npm run seed      # creates test user (see below)
 npm run dev
 ```
 
-API runs at `http://localhost:5000`
+API runs at `http://localhost:5007`
 
 ### Test account (development)
 
